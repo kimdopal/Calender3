@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contact_parent" type="id" />
+    <item name="add_contact" type="id" />
+    <item name="meeting_contact_number" type="id" />
+    <item name="done_btn" type="id" />
+    <item name="meeting_contact_name" type="id" />
+    <item name="edit_meeting_title_btn" type="id" />
+    <item name="meeting_title" type="id" />
+    <item name="endDate" type="id" />
+    <item name="startDate" type="id" />
+    <item name="delete_meeting_btn" type="id" />
+</resources>
